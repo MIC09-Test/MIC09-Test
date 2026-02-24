@@ -1,5 +1,5 @@
 # 💫 About Me:
-Fresh graduate in Information Technology from the University of<br>Mindanao (2022–2025) with hands-on experience in developing<br>mobile and web applications. I have been skilled in Python, Java,<br>Dart, Flutter, Laravel, and SQL. Experienced in building mobile<br>apps with Firebase integration and websites using modern<br>frameworks. Brings strong problem-solving, adaptability, and<br>teamwork skills, eager to contribute to software development<br>projects.
+Fresh graduate in Information Technology from the University of<br>Mindanao (2022–2026) with hands-on experience in developing<br>mobile and web applications. I have been skilled in Python, Java,<br>Dart, Flutter, Laravel, and SQL. Experienced in building mobile<br>apps with Firebase integration and websites using modern<br>frameworks. Brings strong problem-solving, adaptability, and<br>teamwork skills, eager to contribute to software development<br>projects.
 
 
 ## 🌐 Socials:
